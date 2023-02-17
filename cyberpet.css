@@ -1,0 +1,88 @@
+.maincontainer {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+}
+
+
+
+
+.statscontainer {
+    width: 40%;
+}
+
+
+
+.statsfor 
+/* 
+} */
+
+.imagecontainer {
+    width: 50%;
+    border: 5px solid orange;
+}
+
+
+
+
+h1 {
+    color: rgb(196, 74, 196);
+    border: 5px solid rgb(94, 94, 243);
+    /* display: flex;
+    margin-left: 800px; */
+}
+
+h3 {
+    color: rgb(196, 74, 196);
+    border: 5px solid rgb(94, 94, 243);
+    /* display: flex;
+    margin-left: 800px; */
+}
+
+.stats {
+    color: rgb(236, 72, 223);
+    border: 5px solid rgb(94, 94, 243);
+    
+    /* display: flex;
+    margin-left: 800px; */
+}
+
+
+#textbox {
+    /* margin-top: -400px; */
+    width: 80%;
+}
+
+.button1{                           
+    display: flex;
+    flex-direction:row;
+    align-items:center;
+    margin-top:70px;
+    
+}
+
+.play{
+    display: flex;
+    margin-left:800px;
+    padding-right:50px;
+}
+
+.feed{
+    display:flex;
+    padding-right:50px;
+}
+
+.clean{
+    display:flex;
+    
+}
+
+
+
+body {
+    background-color: rgb(212, 233, 93)
+}
+
+
+
+
